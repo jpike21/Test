@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/groovy-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/groovy-json-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/groovy-xml-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/json-path-2.4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/json-path-2.4.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/rest-assured-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/rest-assured-2.4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/rest-assured-2.4.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/rest-assured-common-2.4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/rest-assured-common-2.4.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/xml-path-2.4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/newworkspace/Test/Resources/xml-path-2.4.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
